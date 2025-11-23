@@ -195,5 +195,5 @@ def stream_chat_response(question: str):
 if __name__ == "__main__":
     conversation_id = "my_first_conversation"
 
-    ask=("What's up!")
-
+    ask = "What's up!"
+    stream_chat_response(ask)
