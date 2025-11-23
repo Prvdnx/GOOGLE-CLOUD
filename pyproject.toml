@@ -1,0 +1,11 @@
+[project]
+name = "ca-42-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair>=6.0.0",
+    "google-cloud-geminidataanalytics>=0.6.0",
+    "pandas>=2.3.3",
+]
