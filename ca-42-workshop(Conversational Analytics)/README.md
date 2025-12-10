@@ -28,7 +28,7 @@ Reference codelab: [Introduction to the Conversational Analytics API](https://co
 
 1) Clone and enter the project
 ```
-cd ca-42-workshop
+cd "ca-42-workshop(Conversational Analytics)"
 ```
 
 2) Create a Python environment and install dependencies
